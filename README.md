@@ -4,7 +4,7 @@ Proyecto en haskell para la asignatura Lenguajes de Programación.
 
 
 
-### Prerequisitos
+### Prerequisitos 📋
 
 Es necesario instalar ghc para compilar el programa.
 
@@ -12,7 +12,7 @@ Es necesario instalar ghc para compilar el programa.
 sudo apt install ghc
 ```
 
-### Instalación
+### Instalación 🔧
 
 Primero se compila, generando el ejecutable.
 
